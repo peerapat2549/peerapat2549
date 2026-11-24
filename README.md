@@ -82,7 +82,7 @@
   <a href="https://github.com/peerapat2549" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00F7FF" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:peerapat.chaisi@ku.th">
     <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FF007F" />
   </a>
   <a href="https://linkedin.com" target="_blank">
